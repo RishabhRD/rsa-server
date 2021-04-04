@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/bin",
+  "command": "/usr/bin/c++  -I/home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/include -std=gnu++17 -o CMakeFiles/rsa-server.dir/src/math/ChinRemainder.cc.o -c /home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/src/math/ChinRemainder.cc",
+  "file": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/src/math/ChinRemainder.cc"
+},
+{
+  "directory": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/bin",
+  "command": "/usr/bin/c++  -I/home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/include -std=gnu++17 -o CMakeFiles/rsa-server.dir/src/math/Euclidean.cc.o -c /home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/src/math/Euclidean.cc",
+  "file": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-algo/src/math/Euclidean.cc"
+}
+]
